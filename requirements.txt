@@ -2,7 +2,7 @@ streamlit
 pandas
 numpy
 scikit-learn
-tensorflow==2.16.1
+tensorflow
 matplotlib
 yfinance
 google-generativeai
